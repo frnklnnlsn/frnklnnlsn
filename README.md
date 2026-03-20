@@ -1,5 +1,5 @@
 
-# Hi, I'm Franklin 👋
+# Hi, I'm Franklin 
 
 Biochemistry graduate from the University of Minnesota, interested in the 
 quantitative side of biological research — currently pursuing a path toward 
@@ -9,12 +9,12 @@ web tools.
 
 ## What I Work With
 
-- 🎮 **Godot / GDScript** — game development, procedural systems, simulation
-- 🐍 **Python / Flask** — backend apps, scripting, web tooling
-- 📊 **R** — statistical modeling, regression analysis, data wrangling
-- 🌐 **Hugo** — static site generation
-- 🗄️ **SQLite** — embedded databases
-- 🖥️ **Linux** — self-hosted servers, CLI, system administration
+-  **Godot / GDScript** — game development, procedural systems, simulation
+-  **Python / Flask** — backend apps, scripting, web tooling
+-  **R** — statistical modeling, regression analysis, data wrangling
+-  **Hugo** — static site generation
+-  **SQLite** — embedded databases
+-  **Linux** — self-hosted servers, CLI, system administration
 
 ## Projects
 

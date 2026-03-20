@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm [Franklin] 👋
 
-<!--
-**frnklnnlsn/frnklnnlsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a biochemistry graduate from [University of Minnesota] I am interested in biological research, specifficly the quantitative side, and am looking to pursue a masters in bioinformatics. I have also spent a good deal of time working on various other programming projects in different fields.
 
-Here are some ideas to get you started:
+## What I Have Worked With
+- 🎮 **Godot Engine** — game development (GDScript)
+- 🐍 **Python** — web tooling and scripting
+- 📊 **R** — statistical modeling, regression analysis, data wrangling
+- 🌐 **Hugo** — static site generation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+| Project | Description | Tech |
+|---|---|---|
+| [Mom's Website](link) | Production static site with a custom admin editing interface | Hugo, Python |
+| [Game Project 1](link) | [One line description of the game concept] | Godot, GDScript |
+| [Game Project 2](link) | [One line description] | Godot, GDScript |
+
+## Background
+My programming experience comes primarily through applied coursework and 
+personal projects — including two university statistics courses where all 
+work was submitted as live code output, and independent game and web development.
+
+📫 [your email or LinkedIn if you want]

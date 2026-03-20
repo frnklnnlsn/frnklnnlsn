@@ -25,6 +25,8 @@ a rank-based bell curve distribution, and autonomous behavior driven by a
 component-based state machine. Fish bodies are simulated as inverse-kinematics 
 chains with a travelling sine wave overlay. Idle economy with logistic growth 
 curves, a save system, and a shop UI in progress.
+![Giffy_1](https://github.com/user-attachments/assets/ef2c7eda-3c89-46a5-913a-ba6326a3fc5a)
+
 
 `Godot` `GDScript` `GDShader` `procedural generation` `IK animation`
 

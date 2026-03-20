@@ -9,15 +9,6 @@ I'm a biochemistry graduate from [University of Minnesota] I am interested in bi
 - 🌐 **Hugo** — static site generation
 
 ## Projects
-| Project | Description | Tech |
-|---|---|---|
-| [Mom's Website](link) | Production static site with a custom admin editing interface | Hugo, Python |
-| [Game Project 1](link) | [One line description of the game concept] | Godot, GDScript |
-| [Game Project 2](link) | [One line description] | Godot, GDScript |
 
 ## Background
-My programming experience comes primarily through applied coursework and 
-personal projects — including two university statistics courses where all 
-work was submitted as live code output, and independent game and web development.
 
-📫 [your email or LinkedIn if you want]

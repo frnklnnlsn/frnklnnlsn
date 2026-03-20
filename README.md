@@ -9,6 +9,9 @@ I'm a biochemistry graduate from [University of Minnesota] I am interested in bi
 - 🌐 **Hugo** — static site generation
 
 ## Projects
+- Koi Idle
+- KariNelsonArt.org
 
 ## Background
+
 
